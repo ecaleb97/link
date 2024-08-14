@@ -2,8 +2,8 @@ import * as React from "react";
 import type { SVGProps } from "react";
 const LinkedIn = (props: SVGProps<SVGSVGElement>) => (
 	<svg
-		width="1em"
-		height="1em"
+		width="1.5em"
+		height="1.5em"
 		xmlns="http://www.w3.org/2000/svg"
 		preserveAspectRatio="xMidYMid"
 		viewBox="0 0 256 256"
